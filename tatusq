@@ -1,0 +1,35 @@
+[33mcommit 6d9a93cb0a03eddd2c756002f203ad8a0a7bfc73[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mx[m[33m)[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 10:31:33 2019 +0530
+
+    third commit
+
+[33mcommit db7a62b144e136a93eb9940b94b1af9bee0f51c0[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 10:26:34 2019 +0530
+
+    adding one more line i.e. 1
+
+[33mcommit 4dbff47161a64d7628b51be7e95f1b917a21562e[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 09:55:59 2019 +0530
+
+    added *.xml again
+
+[33mcommit d6061c8f2a2a7413176345a1117791d3aab40b00[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 09:54:58 2019 +0530
+
+    remove *.xml
+
+[33mcommit e867f59b6ade10cef88c7092e57cc400fe1e3a0c[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 09:52:00 2019 +0530
+
+    git ignore
+
+[33mcommit aa8730abcad9d8d747ba2b20a2dc70fe25bd6946[m
+Author: saurabh <saurabh@xavient.com>
+Date:   Thu Oct 3 09:46:29 2019 +0530
+
+    First commit

@@ -1,0 +1,9 @@
+first git file testing
+<<<<<<< HEAD
+first git file testing 1
+first fit file testing 2
+ncsdkjhfjsfksf
+fdshfjdshfjdsk
+fsdfsdfkjsfhksdf
+=======
+>>>>>>> parent of db7a62b... adding one more line i.e. 1

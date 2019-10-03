@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/github3ncr/github3ncr.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "github"]
+	url = github3ncr@github.com/github3ncr/ashish.git
+	fetch = +refs/heads/*:refs/remotes/github/*

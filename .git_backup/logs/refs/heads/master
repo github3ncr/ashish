@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 aa8730abcad9d8d747ba2b20a2dc70fe25bd6946 saurabh <saurabh@xavient.com> 1570076189 +0530	commit (initial): First commit
+aa8730abcad9d8d747ba2b20a2dc70fe25bd6946 e867f59b6ade10cef88c7092e57cc400fe1e3a0c saurabh <saurabh@xavient.com> 1570076520 +0530	commit: git ignore
+e867f59b6ade10cef88c7092e57cc400fe1e3a0c d6061c8f2a2a7413176345a1117791d3aab40b00 saurabh <saurabh@xavient.com> 1570076698 +0530	commit: remove *.xml
+d6061c8f2a2a7413176345a1117791d3aab40b00 4dbff47161a64d7628b51be7e95f1b917a21562e saurabh <saurabh@xavient.com> 1570076759 +0530	commit: added *.xml again
+4dbff47161a64d7628b51be7e95f1b917a21562e db7a62b144e136a93eb9940b94b1af9bee0f51c0 saurabh <saurabh@xavient.com> 1570078594 +0530	commit: adding one more line i.e. 1
+db7a62b144e136a93eb9940b94b1af9bee0f51c0 6d9a93cb0a03eddd2c756002f203ad8a0a7bfc73 saurabh <saurabh@xavient.com> 1570078893 +0530	commit: third commit
+6d9a93cb0a03eddd2c756002f203ad8a0a7bfc73 8f82982b27028f42e7f28f9b5eb7ae99e1f8616d saurabh <saurabh@xavient.com> 1570082045 +0530	commit: reverting
+8f82982b27028f42e7f28f9b5eb7ae99e1f8616d 45379d25c947d3782e881cd057a24efe2a52b7d6 saurabh <saurabh@xavient.com> 1570082134 +0530	revert: Revert "added *.xml again"
+45379d25c947d3782e881cd057a24efe2a52b7d6 6d9a93cb0a03eddd2c756002f203ad8a0a7bfc73 saurabh <saurabh@xavient.com> 1570082291 +0530	reset: moving to HEAD^^
+6d9a93cb0a03eddd2c756002f203ad8a0a7bfc73 8c47e66f863aaae8260b733829c5f3d79fff3d8c saurabh <saurabh@xavient.com> 1570091023 +0530	commit: FIRST COMMIT
